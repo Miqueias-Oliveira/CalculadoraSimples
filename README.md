@@ -19,6 +19,7 @@ O usuário escolhe a operação através de um menu numérico exibido no termina
 
 ---
 
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Java  
@@ -32,3 +33,20 @@ O usuário escolhe a operação através de um menu numérico exibido no termina
 2. Clone este repositório:
    ```bash
    git clone https://github.com/Miqueias-Oliveira/CalculadoraSimples.git
+3.Acesse a pasta do projeto:
+   ```bash
+   cd CalculadoraSimples
+   ```
+4.Verifique a estrutura de pastas e entre na pasta correta:
+ ```bash
+   cd src
+ ```
+5.Compile o projeto:
+   ```bash
+   javac CalculadoraSimples.java
+ ```
+6.Execute o programa:
+   ```bash
+   java CalculadoraSimples
+   
+
