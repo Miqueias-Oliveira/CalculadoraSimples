@@ -40,7 +40,7 @@ O usuário escolhe a operação através de um menu numérico exibido no termina
    ```
 5.Verifique a estrutura de pastas e entre na pasta correta:
  ```bash
-   cd src
+ cd src
  ```
 6.Compile o projeto:
    ```bash
